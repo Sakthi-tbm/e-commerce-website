@@ -101,7 +101,7 @@ Email: sakthivelbaranitharan03@gmail.com
 
 Website: ecommerce-sakthi.netlify.app
 
-GitHub: [Sakthi-tbm/]
+GitHub: [Sakthi-tbm/e-commerce-website]
 
 Why this README works:
 
